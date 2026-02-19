@@ -46,6 +46,7 @@ public class SzyfrCezara {
         System.out.println("komentarz");
         System.out.println("komentarz");
         System.out.println("do cherrypicka");
+        System.out.println("do cherrypicka kolejny");
 
     }
 
