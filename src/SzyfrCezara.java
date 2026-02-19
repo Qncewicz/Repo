@@ -45,7 +45,7 @@ public class SzyfrCezara {
         Files.writeString(path, content, StandardCharsets.UTF_8);
 
         System.out.println("komentarz");
-        System.out.println("inna zmiana");
+        System.out.println("komentarz");
     }
 
 }
