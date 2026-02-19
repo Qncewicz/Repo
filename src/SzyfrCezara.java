@@ -43,6 +43,7 @@ public class SzyfrCezara {
         Path path = Path.of("C:\\Users\\Qnio\\Desktop\\prijrkt\\Wektory\\.zaszyfrowanytekst");
         Files.writeString(path, content, StandardCharsets.UTF_8);
 
+        System.out.println("komentarz");
     }
 
 }
